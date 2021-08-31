@@ -1,3 +1,4 @@
+# Forked from https://github.com/mcclure/ts-hello-cmdline
 # Run first time 
 npm install && npm run build
 
@@ -5,4 +6,4 @@ npm install && npm run build
 npx run build
 
 # Run to run
-node . -f -o garbage filename
+node . -d bannedPropertyName somefile.json
