@@ -2,7 +2,7 @@
 npm install && npm run build
 
 # Run on change
-npx run build
+npm run build
 
 # Run to run
 node .
